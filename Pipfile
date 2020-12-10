@@ -8,10 +8,10 @@ flask = "*"
 python-dotenv = "*"
 sqlalchemy = "*"
 flask-sqlalchemy = "*"
-psycopg2 = "*"
 wtforms = "*"
 flask-wtf = "*"
 flask-login = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 pylint = "*"
